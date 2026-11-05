@@ -6,12 +6,12 @@ Proyecto final del curso AI-901.
  
 ## Pantalla Principal del Asistente
  
-![Pantalla Principal](Pantalla Principal.png)
+![01_inicio](Pantalla Principal.png)
  
 ## Conversación con el asistente
  
-![Conversación](Conversacion con IA.png)
+![02_conversacion](Conversacion con IA.png)
 
 ## Despliegue en Azure App Service
 
-![Azure App Service](Azure App Service.png)
+![03_azure_app_service](Azure App Service.png)
