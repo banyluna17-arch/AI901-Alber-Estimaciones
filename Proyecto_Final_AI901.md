@@ -238,7 +238,7 @@ Los conceptos generados deben ser validados por personal especializado antes de 
 
 La figura muestra la interfaz principal de la aplicación desplegada en Azure App Service.
 
-![Pantalla Principal](Pantalla Principal.png)
+![Pantalla Principal](Pantalla%20Principal.png)
 
 ---
 
@@ -246,7 +246,7 @@ La figura muestra la interfaz principal de la aplicación desplegada en Azure Ap
 
 La siguiente imagen muestra una conversación donde el sistema inicia la recopilación de información necesaria para elaborar un concepto constructivo.
 
-![Conversación con IA](Conversación con IA.png)
+![Conversación con IA](Conversación%20con%20IA.png)
 
 ---
 
@@ -254,7 +254,7 @@ La siguiente imagen muestra una conversación donde el sistema inicia la recopil
 
 La aplicación fue publicada exitosamente en Azure App Service permitiendo su acceso mediante navegador web.
 
-![Azure App Service](Azure App service.png)
+![Azure App Service](Azure%20App%20Service.png)
 
 ---
 
