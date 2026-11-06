@@ -6,7 +6,7 @@ Proyecto final del curso AI-901.
  
 ## Pantalla Principal del Asistente
  
-![Pantalla Principal](01_inicio.png)
+![Pantalla Principal](Pantalla Principal.png)
  
 ## Conversación con el asistente
  
