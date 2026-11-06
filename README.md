@@ -14,4 +14,4 @@ Proyecto final del curso AI-901.
 
 ## Despliegue en Azure App Service
 
-![Azure App Service](Azur%20Ap%20Service.png)
+![Azure App Service](Azure%20App%20Service.png)
